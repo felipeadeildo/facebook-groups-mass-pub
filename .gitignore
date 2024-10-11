@@ -166,4 +166,5 @@ cython_debug/
 facebook_session/
 
 # Ignore options:
-*.txt
+mensagem.txt
+grupos.txt
